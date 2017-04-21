@@ -1,0 +1,2 @@
+# ilkdeneme
+Github kullanmaya başlıyorum
